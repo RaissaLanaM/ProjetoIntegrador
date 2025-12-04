@@ -11,5 +11,6 @@ PEDRO ANTONIO LUQUE
 
 
 *--------------------------------
+
 Para rodar o projeto é só criar um banco de dados chamado tcc no phpmyadmin,
 importar o banco de dados, depois extrair o arquivo zip na pasta htdocs do xampp e rodar o projeto!!
